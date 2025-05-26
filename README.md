@@ -17,7 +17,7 @@ Número da camisa
 ### Tela de Lista de Jogadores: 
 Apresenta todos os jogadores cadastrados e permite visualizar detalhes.
 
-##Estrutura Sugerida das Páginas
+## Estrutura Sugerida das Páginas
 
 ### Inicial:
 Exibe o logo do time de futebol e um menu para navegar para o cadastro ou lista de jogadores.
